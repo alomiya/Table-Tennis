@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>rule1</key>
+		<string>1.击打白球使得彩色球入袋,玩家即获得等值分数</string>
+		<key>rule2</key>
+		<string>2.一旦有彩色球发生碰撞时,得碰撞次数等同分数</string>
+		<key>rule3</key>
+		<string>3.如果彩色球的分值为零时,则自动从球桌上拿走</string>
+		</key>rule4</key>
+		<string>4.清空彩色球即可结束游戏,分数较高者获得胜利</string>
+		</key>rule5</key>
+		<string>5.白球入袋则扣除对应分数,由对方从发球区发球</string>
+		</key>rule6</key>
+		<string>6.黑球最后入袋可获得加分,反之将扣除对应分数</string>
+    </dict>
+</plist>
